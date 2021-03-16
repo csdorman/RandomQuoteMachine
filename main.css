@@ -1,0 +1,25 @@
+#quote-box {
+    background: yellow;
+    width: 50%;
+    margin: auto;
+  }
+  
+  #text {
+    font-size: 2em;
+    text-align: center;
+    line-height: 1.3em
+  }
+  
+  #author {
+    font-size: 1.2em;
+    text-align: center
+  }
+  
+  #new-quote {
+    font-size: 1.2em;
+    padding: 10px;
+  }
+  
+  #tweet-quote {
+    font-size: 1.1em;
+  }
